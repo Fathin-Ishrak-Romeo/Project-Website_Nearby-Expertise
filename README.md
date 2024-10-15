@@ -4,7 +4,7 @@ This project provides a practical solution to everyday problems by allowing user
 
 Creators:
 1. LAMISA MAHMUD (ID : 23241122)
-2. MD. ABRAR HASAN (23241115)
+2. MD. ABRAR HASAN (ID : 23241115)
 3. NAVID NAHIYAN (ID : 23231125)
 4. OBYDA TASNIM (ID : 21301486)
 5. FATHIN ISHRAK (ID : 20301027)
