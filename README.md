@@ -11,6 +11,3 @@ This project aims to manage and present data efficiently, leveraging the concept
 4. OBYDA TASNIM (ID : 21301486)
 5. FATHIN ISHRAK (ID : 20301027)
 
-
-# Current Status of the Project:
-We're currently working on this project to improve some of its functionalities..
